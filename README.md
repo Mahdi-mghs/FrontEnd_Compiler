@@ -29,4 +29,3 @@ We have a `Struct datatype` for Symbol table, contains ID, Data_Type, Type, Line
 You can check final result with _a.out_ file
 > ./a.out<test.c command in linux
 ***
-Provided by [Mahdi-Mghs](https://github.com/Mahdi-mghs/)
